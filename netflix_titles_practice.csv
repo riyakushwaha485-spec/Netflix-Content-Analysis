@@ -1,0 +1,26 @@
+show_id,type,title,director,country,release_year,rating,duration,listed_in
+s001,Movie,The Last Journey,A. Sharma,India,2024,16+,128 min,"Drama, International Movies"
+s002,TV Show,City Stories,R. Mehta,India,2023,13+,2 Seasons,"Drama, TV Dramas"
+s003,Movie,Midnight Cafe,J. Brown,United States,2022,13+,105 min,"Comedies, Romantic Movies"
+s004,Movie,Wild Earth,L. Wilson,United Kingdom,2021,7+,92 min,Documentaries
+s005,TV Show,Code Breakers,M. Lee,South Korea,2024,16+,3 Seasons,"International TV Shows, Thrillers"
+s006,Movie,Laugh Out Loud,S. Patel,India,2020,7+,98 min,Comedies
+s007,Movie,Ocean Deep,D. Smith,United States,2019,7+,88 min,Documentaries
+s008,TV Show,The Detective,K. Jones,United Kingdom,2018,16+,4 Seasons,"Crime TV Shows, Dramas"
+s009,Movie,Family Ties,P. Gupta,India,2017,13+,115 min,"Dramas, International Movies"
+s010,Movie,Space Beyond,N. Carter,United States,2023,13+,137 min,"Sci-Fi & Fantasy, Action"
+s011,TV Show,Food Trails,E. Martin,India,2022,7+,1 Season,"Docuseries, International TV Shows"
+s012,Movie,The Silent Room,H. Kim,South Korea,2021,16+,110 min,"Thrillers, International Movies"
+s013,Movie,Summer Love,C. Davis,United States,2016,13+,102 min,"Romantic Movies, Comedies"
+s014,TV Show,Royal House,T. Evans,United Kingdom,2020,13+,5 Seasons,"Dramas, International TV Shows"
+s015,Movie,Mountain Life,A. Singh,India,2015,7+,95 min,"Documentaries, International Movies"
+s016,Movie,The Final Game,R. Miller,United States,2024,16+,124 min,"Action, Thrillers"
+s017,TV Show,School Days,M. Roy,India,2019,13+,3 Seasons,"Teen TV Shows, Dramas"
+s018,Movie,Hidden Truth,Y. Park,South Korea,2022,16+,119 min,"Thrillers, Dramas"
+s019,Movie,Funny Business,J. Taylor,United States,2018,7+,101 min,Comedies
+s020,TV Show,Planet Earth Today,S. Green,United Kingdom,2023,7+,2 Seasons,Docuseries
+s021,Movie,Indian Dreams,V. Kapoor,India,2021,13+,130 min,"Dramas, International Movies"
+s022,Movie,Fast Track,B. Anderson,United States,2020,16+,108 min,"Action, Thrillers"
+s023,TV Show,Medical Stories,N. Brown,United States,2021,16+,2 Seasons,TV Dramas
+s024,Movie,The Great Escape,F. Wilson,United Kingdom,2019,13+,112 min,"Action, Dramas"
+s025,TV Show,Mystery Lane,D. Kumar,India,2024,16+,1 Season,"Crime TV Shows, Thrillers"
