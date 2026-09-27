@@ -38,6 +38,19 @@ A Netflix-style dashboard was also created to present the key findings in a clea
 - **68%** of the titles were released from **2020 onwards**.
 - Indian content includes **5 Movies and 4 TV Shows**.
 
+## 🎯 What I Analyzed
+
+- Total number of titles
+- Movies vs TV Shows
+- Movie percentage and TV Show percentage
+- Movie duration
+- Number of TV show seasons
+- Top countries by number of titles
+- Indian content
+- Release trends by year
+- Content ratings
+- Recent content released from 2020 onwards
+
 ## 📈 Visualizations
 
 The project includes visualizations for:
@@ -47,24 +60,31 @@ The project includes visualizations for:
 - Release Trends
 - Ratings Distribution
 
-A Netflix-style dashboard was also created to present the major findings.
+A Netflix-style dashboard was also created to bring the major findings together.
 
 ## 📁 Project Files
 
 - `Netflix_project.py` — Python analysis code
 - `netflix_titles_practice.csv` — Practice dataset
-- `netflix_dashboard.png` — Project dashboard
+- `netflix_dashboard.png` — Dashboard
 
-## ⚠️ Dataset Note
+## 📌 Dataset
 
-This project uses a **synthetic Netflix-style practice dataset** created for learning and portfolio development. It is not Netflix's official dataset.
+This is a **synthetic Netflix-style practice dataset** created for learning and portfolio purposes. It is not Netflix's official dataset.
 
-## 🚀 Skills Demonstrated
+## 🚀 What I Learned
 
-**Python | Pandas | Matplotlib | Data Cleaning | EDA | Data Visualization | Statistical Analysis | Insight Generation**
+Through this project, I practiced:💫
 
-## 👩‍💻 Author
+- Loading and understanding a dataset
+- Checking missing and duplicate values
+- Filtering and grouping data using Pandas
+- Calculating percentages and statistics
+- Extracting useful insights from data
+- Creating charts using Matplotlib
+- Presenting analysis through a dashboard
 
-**Riya**
+## 👩‍💻 About Me
 
+**Riya**  
 B.Tech CSE Student | Aspiring Data Analyst
